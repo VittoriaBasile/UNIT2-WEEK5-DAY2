@@ -143,9 +143,9 @@ h1 {
 
 .linea{
   position: absolute;
-  top: 0;
+  top: 4rem;
   left: 0;
-  min-width: 120%;
+  min-width: 100%;
 }
 
 p,
